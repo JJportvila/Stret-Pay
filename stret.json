@@ -1,0 +1,26 @@
+{
+  "name": "Stret",
+  "symbol": "STRET",
+  "description": "The digital payment token for Stret POS system in Vanuatu.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/JJportvila/Stret-Pay/refs/heads/main/unnamed.jpg",
+  "attributes": [
+    {
+      "trait_type": "Currency",
+      "value": "Vatu-Pegged"
+    },
+    {
+      "trait_type": "Country",
+      "value": "Vanuatu"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/JJportvila/Stret-Pay/refs/heads/main/unnamed.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
